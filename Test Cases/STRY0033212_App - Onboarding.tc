@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Como usuario titular/beneficiado
+Quiero ver el Onboarding
+Para conocer más sobre las posibilidades de la App</description>
+   <name>STRY0033212_App - Onboarding</name>
+   <tag>Onboarding</tag>
+   <comment></comment>
+   <testCaseGuid>81b19110-5f91-45ba-95f2-858e5c1c0906</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('android.widget.ImageView0')</defaultValue>
+      <description></description>
+      <id>8becab86-1c35-47e1-baac-f71d1ecc5409</id>
+      <masked>false</masked>
+      <name>logo_karan</name>
+   </variable>
+</TestCaseEntity>

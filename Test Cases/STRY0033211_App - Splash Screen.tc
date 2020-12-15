@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Como usuario titular/beneficiado
+Quiero ver el Splash Screen
+Para saber que la aplicación esta cargando correctamente</description>
+   <name>STRY0033211_App - Splash Screen</name>
+   <tag>Splash</tag>
+   <comment></comment>
+   <testCaseGuid>c8967b25-0c95-44ea-97fe-98c1c3ae8586</testCaseGuid>
+</TestCaseEntity>

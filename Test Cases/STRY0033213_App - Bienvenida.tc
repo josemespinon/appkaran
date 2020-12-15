@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Como usuario titular/beneficiado
+Quiero ver la pantalla de bienvenida
+Para poder elegir entre registrarme o iniciar sesión</description>
+   <name>STRY0033213_App - Bienvenida</name>
+   <tag>Bienvenida</tag>
+   <comment></comment>
+   <testCaseGuid>7b1137cf-403e-49bd-8adf-97af7284fb42</testCaseGuid>
+</TestCaseEntity>
